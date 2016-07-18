@@ -1,5 +1,6 @@
-*To run rake tasks*
+**To run rake tasks**
+
 bundle exec rake namespace:task
 
 
-*Test Rake Tasks*
+**Test Rake Tasks**
